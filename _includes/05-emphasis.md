@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Languages I know**
+* Python
+* C
+* SQL
+
+*Languages I want to learn*
+* Ruby
+* Java
